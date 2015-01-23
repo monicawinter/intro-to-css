@@ -1,0 +1,11 @@
+html {
+  background-color: #bc3ff0;
+}
+
+h1{
+  font-weight: normal;
+  font-size: 10rem;
+  font-style: italic;
+  text-decoration: underline;
+  font-family: 'Lobster', cursive;
+}
