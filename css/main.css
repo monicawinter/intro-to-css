@@ -1,11 +1,33 @@
-html {
+html{
   background-color: #bc3ff0;
 }
 
-h1{
+h1,h2{
   font-weight: normal;
-  font-size: 10rem;
+  font-size: 5rem;
   font-style: italic;
   text-decoration: underline;
   font-family: 'Lobster', cursive;
+}
+
+ol{
+  list-style-type: none;
+  line-height: 1.5;
+  padding: 0;
+}
+
+li{
+  font-weight: bold;
+}
+
+.stego {
+  color: yellow;
+}
+
+a {
+  color: white;
+}
+
+a:hover {
+  color: orange;
 }
